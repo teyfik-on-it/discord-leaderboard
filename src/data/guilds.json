@@ -1,0 +1,50 @@
+[
+  {
+    "id": "634437923500195853",
+    "name": "S H A N N A R A",
+    "icon": "https://cdn.discordapp.com/icons/634437923500195853/a_773464c6112bedba97319c96ae8c6149",
+    "voice": 89,
+    "details": {
+      "url": "https://discord.gg/serendia",
+      "memberSize": 2351,
+      "banner": "https://cdn.discordapp.com/banners/634437923500195853/ef8448d667aed96b2199567f5c79074d"
+    },
+    "sheet": false
+  },
+  {
+    "id": "739832272475127819",
+    "name": "A Q U A L I T Y",
+    "icon": "https://cdn.discordapp.com/icons/739832272475127819/a_dc0945683a0963f875d2ab1d817f7b4b",
+    "voice": 30,
+    "details": {
+      "url": "https://discord.gg/serendia",
+      "memberSize": 41412,
+      "banner": "https://cdn.discordapp.com/banners/739832272475127819/8694b4cc321cba40b707c3658b17426f"
+    },
+    "sheet": false
+  },
+  {
+    "id": "784193679594094642",
+    "name": "V E R O N I C A",
+    "icon": "https://cdn.discordapp.com/icons/784193679594094642/a_799cca182d1f06b744544ca0198946c4",
+    "voice": 20,
+    "details": {
+      "url": "https://discord.gg/serendia",
+      "memberSize": 41412,
+      "banner": "https://cdn.discordapp.com/banners/784193679594094642/1689b8992ef8c6a32fa6f4ee8505e4af"
+    },
+    "sheet": false
+  },
+  {
+    "id": "538038727654768652",
+    "name": "ATLANTIS",
+    "icon": "https://cdn.discordapp.com/icons/538038727654768652/a_629acbcbd303d3b46aca9affb7a02f6c",
+    "voice": 15,
+    "details": {
+      "url": "https://discord.gg/serendia",
+      "memberSize": 41412,
+      "banner": "https://cdn.discordapp.com/banners/538038727654768652/7e3e820fb48b13b7cf8f347d9d25a240"
+    },
+    "sheet": false
+  }
+]
